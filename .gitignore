@@ -1,0 +1,5 @@
+static/heatmaps/*.jpg
+__pycache__/
+venv/
+.env
+*.pyc
