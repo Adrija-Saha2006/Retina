@@ -42,6 +42,7 @@ The models were developed using a curated subset of high-resolution retinal fund
 
 ## 👥 Contributors
 * **Abir Kumar Chakraborty**
+* **Adrija Saha**
 * **Institution:** Institute of Engineering and Management (IEM), Kolkata
 * **Guided by:** Prof. Shreejita Mukherjee
 
